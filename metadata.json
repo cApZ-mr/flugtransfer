@@ -1,0 +1,6 @@
+{
+  "name": "Condor CrewSwap - Dienstplan-Börse & Kalender",
+  "description": "Flugtransfer: Die moderne Dienstplan-Börse für Flugcrews. Dienstplan per iCal-Link importieren, Flüge und Schichten tauschen oder abgeben, verhandeln und Kalender automatisch synchronisieren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
